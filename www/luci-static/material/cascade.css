@@ -1,0 +1,21 @@
+
+.cbi-input-invalid,
+.cbi-value-error input {
+	color: #FF0000;
+	border-color: #FF0000;
+}
+
+.cbi-section-error {
+	border: 1px solid #FF0000;
+	border-radius: 3px;
+	background-color: #FCE6E6;
+	padding: 5px;
+}
+
+.cbi-section-error ul { margin: 0 0 0 20px; }
+
+.cbi-section-error ul li {
+	color: #FF0000;
+	font-weight: bold;
+}
+
